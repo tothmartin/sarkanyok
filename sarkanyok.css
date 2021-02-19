@@ -21,3 +21,8 @@ html{
     background-image:url(hatterkep.jpg);
     font-family: sans-serif;
 }
+.forras{
+    font-size: 10px;
+    text-align: right;
+    font-style: italic;
+}
